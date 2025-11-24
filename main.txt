@@ -1,1 +1,2 @@
 Archivo inicial del ejercicio.
+Me llamo Agustin Laszuk y quiero mejorar mis conocimientos en Git
